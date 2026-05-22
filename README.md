@@ -1,6 +1,4 @@
-# Python Homework
-
-This project has 7 tasks.
+# Python algorithms
 
 ## Task 1
 
